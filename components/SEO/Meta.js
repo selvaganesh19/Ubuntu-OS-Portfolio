@@ -5,9 +5,9 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Selvaganesh Portfolio - AIML Student</title>
+            <title>Selvaganesh Portfolio</title>
             <meta charSet="utf-8" />
-            <meta name="title" content="Selvaganesh Portfolio - AIML Student" />
+            <meta name="title" content="Selvaganesh Portfolio" />
             <meta name="description"
                 content="Selvaganesh's (selvaganesh19) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="author" content="Selvaganesh (selvaganesh19)" />
@@ -22,20 +22,20 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/my.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Selvaganesh Portfolio - AIML Student" />
+            <meta itemProp="name" content="Selvaganesh Portfolio" />
             <meta itemProp="description"
                 content="Selvaganesh's (selvaganesh19) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta itemProp="image" content="images/logos/my.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Selvaganesh Portfolio - AIML Student" />
+            <meta name="twitter:title" content="Selvaganesh Portfolio" />
             <meta name="twitter:description"
                 content="Selvaganesh's (selvaganesh19) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="twitter:site" content="selvaganesh19" />
             <meta name="twitter:creator" content="selvaganesh19" />
             <meta name="twitter:image:src" content="images/logos/my.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
-            <meta name="og:title" content="Selvaganesh Portfolio - AIML Student" />
+            <meta name="og:title" content="Selvaganesh Portfolio" />
             <meta name="og:description"
                 content="Selvaganesh's (selvaganesh19) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="og:image" content="images/logos/my.png" />
