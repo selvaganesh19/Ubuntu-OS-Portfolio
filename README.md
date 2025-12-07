@@ -1,6 +1,6 @@
 # Web simulation of UbuntuOS
 
-Live link - [Link](https://selvaubuntuportfolio.vercel.app/)
+Live link - [Selvaganesh Portfolio](https://selvaubuntuportfolio.vercel.app/)
 
 This is a personal portfolio website of theme Ubuntu 20.04, made using Next.js & tailwind CSS.
 If you want to edit this. Clone this project and edit the files in `/src/components`.
