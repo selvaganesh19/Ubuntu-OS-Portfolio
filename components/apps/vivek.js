@@ -123,12 +123,12 @@ function About() {
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc">I'm a <span className=" font-medium">Graduate Student</span> currently pursuing AIML. </li>
+                <li className=" list-pc">I'm a <span className=" font-medium">Student</span> currently pursuing AIML. </li>
 <li className="mt-3 list-building">
   I enjoy building AI/ML models and deploying intelligent applications using Python, LSTM, CNN and BERT models to solve real-world problems.
 </li>
 <li className="mt-3 list-time">
-  When I am not developing my next project, I love exploring tech blogs, working on UI/UX ideas in Figma, playing football, or learning new AI tools.
+  When I am not developing my next project, I love exploring tech projects, working on N8N Automation tool, video editing or learning new AI tools.
 </li>
 
                 <li className=" mt-3 list-star"> And I also have interest in Deep Learning Fields</li>
