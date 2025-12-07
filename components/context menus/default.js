@@ -6,7 +6,7 @@ function DefaultMenu(props) {
             <a rel="noreferrer noopener" href="https://github.com/selvaganesh19/" target="_blank" className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
                 <span className="ml-5">🌟</span> <span className="ml-2">Star this Project</span>
             </a>
-            <a rel="noreferrer noopener" href="https://github.com/vivek9patel/vivek9patel.github.io/issues" target="_blank" className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
+            <a rel="noreferrer noopener" href="https://github.com/selvaganesh19/selvaganesh19/issues" target="_blank" className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
                 <span className="ml-5">❗</span> <span className="ml-2">Report bugs</span>
             </a>
             <Devider />
