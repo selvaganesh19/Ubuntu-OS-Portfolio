@@ -308,20 +308,20 @@ function IconCloud({
 function Skills() {
     // Comprehensive skill slugs from the provided code
     const slugs = [
-        "anaconda", "apachehadoop", "azure", "gnubash", "c", "claude", "clion", "cockroachlabs", "css", "docker",
-        "eclipseide", "fastapi", "flask", "git", "github", "gitlab", "gitlfs", "go", "googlecolab", "gradio",
-        "graphql", "gunicorn", "html5", "huggingface", "intellij", "javascript", "jupyter", "json", "kaggle",
-        "keras", "langchain", "linux", "matplotlib", "modelcontextprotocol", "mysql", "netlify", "npm", "numpy",
-        "n8n", "ollama", "onnx", "openai", "opencv", "pandas", "pnpm", "postgresql", "pycharm", "pypi", "python",
-        "pythonanywhere", "pytorch", "railway", "redis", "render", "scikitlearn", "selenium", "streamlit", "supabase",
+        "anaconda", "azure", "gnubash", "c", "claude", "clion", "css", "docker",
+        "eclipseide", "fastapi", "flask", "git", "github", "gitlfs", "go", "googlecolab", "gradio",
+        "gunicorn", "html5", "huggingface", "intellij", "javascript", "jupyter", "json", "kaggle",
+        "keras","zapier", "linux", "matplotlib", "modelcontextprotocol", "mysql", "netlify", "npm", "numpy",
+        "n8n", "ollama", "onnx", "openai", "opencv", "pandas", "pnpm", "postgresql", "pycharm", "pypi", "python","c++",
+        "pythonanywhere", "pytorch", "railway", "redis", "render", "scikitlearn", "streamlit", "supabase",
         "tensorflow", "ubuntu", "uv", "vercel", "vscode", "virtualbox", "v0", "windows11", "yaml",
     ];
 
     const deviconAvailable = new Set([
         "anaconda", "azure", "bash", "c", "clion", "css3", "docker", "eclipse", "fastapi", "flask",
-        "git", "github", "gitlab", "go", "html5", "intellij", "javascript", "jupyter", "kaggle", "keras",
+        "git", "github", "go", "html5", "intellij", "javascript", "jupyter", "kaggle", "keras",
         "linux", "matplotlib", "mysql", "netlify", "npm", "numpy", "opencv", "pandas", "postgresql", "pycharm",
-        "python", "pytorch", "redis", "scikitlearn", "selenium", "tensorflow", "ubuntu", "vercel", "vscode",
+        "python", "c++","pytorch", "redis", "scikitlearn", "zapier", "tensorflow", "ubuntu", "vercel", "vscode",
         "windows11", "yaml",
     ]);
 
