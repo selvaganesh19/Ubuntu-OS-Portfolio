@@ -8,6 +8,7 @@ export default function Meta() {
             <title>Selvaganesh Portfolio</title>
             <meta charSet="utf-8" />
             <meta name="title" content="Selvaganesh Portfolio" />
+            <meta name="google-site-verification" content="MJa9mfDylAvNg6gK_Kb0BLKyAqxraoPUAgRitCkew9E" />
             <meta name="description"
                 content="Selvaganesh's (selvaganesh19) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="author" content="Selvaganesh (selvaganesh19)" />
@@ -42,8 +43,6 @@ export default function Meta() {
             <meta name="og:site_name" content="Selvaganesh Personal Portfolio" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
-            <meta name="google-site-verification" content="9c9WJrB6k1_0JHlUx3V8JNS7B5t4OGt8asr9IeJZhkM" />
-
             <link rel="icon" href="images/logos/my.svg" />
             <link rel="apple-touch-icon" href="images/logos/my.png" />
             <link rel="preload" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" as="style" />
