@@ -8,11 +8,11 @@ export default function Meta() {
             <title>Selvaganesh Portfolio</title>
             <meta charSet="utf-8" />
             <meta name="title" content="Selvaganesh Portfolio" />
+            <meta name="google-site-verification" content="MJa9mfDylAvNg6gK_Kb0BLKyAqxraoPUAgRitCkew9E" />
             <meta name="description"
                 content="Selvaganesh's (selvaganesh19) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="author" content="Selvaganesh (selvaganesh19)" />
-            <meta name="keywords"
-                content="selvaganesh19, selvaganesh19's portfolio, selvaganesh19 linux, ubuntu portfolio, selvaganesh portfolio, selvaganesh aiml, selvaganesh, selvaganesh ubuntu, selvaganesh ubuntu portfolio" />
+            <meta name="keywords" content="Selvaganesh portfolio, selva portfolio, ganesh portfolio, selvaganesh19, selva19 portfolio, Tiruppur, AI/ML developer, artificial intelligence, machine learning, Bannari Amman Institute of Technology, web development, software engineer, Python, JavaScript, deep learning, TensorFlow, Keras, UI/UX design, LSTM, CNN, Random Forest, projects, resume, blog, BITSATHY, AI projects, ML projects,bit, coimbatore, India"/>
             <meta name="robots" content="index, follow" />
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
