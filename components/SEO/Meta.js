@@ -8,7 +8,6 @@ export default function Meta() {
             <title>Selvaganesh Portfolio</title>
             <meta charSet="utf-8" />
             <meta name="title" content="Selvaganesh Portfolio" />
-            <meta name="google-site-verification" content="MJa9mfDylAvNg6gK_Kb0BLKyAqxraoPUAgRitCkew9E" />
             <meta name="description"
                 content="Selvaganesh's (selvaganesh19) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="author" content="Selvaganesh (selvaganesh19)" />
